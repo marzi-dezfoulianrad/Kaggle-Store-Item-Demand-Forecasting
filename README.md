@@ -12,7 +12,7 @@ Metric: **Root Mean Squared Error (RMSE)** on the last 90 days of the test windo
 
 Notebook Author 1 : [https://www.kaggle.com/code/nicdeluc/store-demand-forecasting-with-prophet]
 <br/>
-Notebook Author 2: []
+Notebook Author 2: [https://www.kaggle.com/code/bilgingunes/store-item-demand-forecasting-challenge]
 
 ---
 
